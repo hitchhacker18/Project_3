@@ -126,21 +126,18 @@ li {
         height: 600px;
         width: 100%;
 }
-
 body {
     font-size: 1.5em;
     background-color: white;
-    font-color: blue;
+    color: blue;
     font-style: italic;
-    padding-left: 2em;
-    
+    padding-left: 2em;    
 }
-
 h1 {
     text-decoration: underline;
     font-size: 3.5em;
     background-color: #FFF8DC;
-    font-color: purple;
+    color: purple;
     font-style: italic;
     padding-left: 3em;
   }
